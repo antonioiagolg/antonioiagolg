@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Antonio's here! I like to solve problems with code =) 
+
 Feel free to check out my Dojo repos, where I train my development skills.
 
 <!--
