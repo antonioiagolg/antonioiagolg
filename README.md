@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Antonio's here! I like to solve problems with code =) 
-
-Feel free to check out my Dojo repos, where I train my development skills.
+I like to code =).
 
 <!--
 **antonioiagolg/antonioiagolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
