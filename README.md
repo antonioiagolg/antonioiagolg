@@ -1,17 +1,16 @@
 ## Hi there 👋
 
-I like to code! The first time I saw an algorithm running, I realized this is the thing I would like to every day. I don't have any preferences, I just have fun coding. I am always exploring new languagues, concepts and frameworks to understand the pain and the problems they propose to solve and aggregate this knowledge to my problem solving toolbelt. Currently working as a Python Developer.
+Software engineer with 10+ years of experience. Strong problem solving skills, always observing the software best practices, quality and documentation. Solid experience in software lifecycle as a whole, since the architectural design, implementation, DevOps culture and release strategies. Solid experience as a Devops and Cloud Engineering.
+
+### Hobbies
+
+- Coding challenges (actively on [HackerHank](https://www.hackerrank.com/profile/antonio_iagolg), I am getting started in [Kattis](https://open.kattis.com/))
+- Gaming (I like all kind of genres, specially souls like, metroidvania and hack and slash)
 
 ### Currently working with
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" width="40" height="40"/>
           
-          
-          
-### Technologies I have learned and worked in my journey
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
-
 ### Github stats
 <div>
 <a href="https://github.com/antonioiagolg">
