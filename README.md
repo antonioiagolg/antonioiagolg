@@ -5,7 +5,8 @@ Software engineer with 10+ years of experience. Strong problem solving skills, a
 ### Hobbies
 
 - Coding challenges (actively on [HackerHank](https://www.hackerrank.com/profile/antonio_iagolg), I am getting started in [Kattis](https://open.kattis.com/))
-- Gaming (I like all kind of genres, specially souls like, metroidvania and hack and slash)
+- Gaming (I like all kind of genres, specially with pixel-art style, souls like, metroidvania and hack and slash)
+- Linux ricing
 
 ### Currently working with
 
